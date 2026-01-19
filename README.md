@@ -13,7 +13,7 @@ Ez a projekt egy **Cisco Packet Tracer** prototípus, amely a hálózati alapelv
 ## Fájlok
 | Fájl | Leírás |
 |------|--------|
-| `randoms_kesz.pkt` | Packet Tracer prototípus |
+| `randoms_finished.pkt` | Packet Tracer prototípus |
 | `randoms_dokumentáció.docx` | Részletes dokumentáció a hálózatról |
 | `randoms_prezentáció.ppt` | Prezentáció a projekt bemutatásához |
 
