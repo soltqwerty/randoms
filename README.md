@@ -20,10 +20,10 @@ Ez a projekt egy **Cisco Packet Tracer** prototípus, amely a hálózati alapelv
 | `randoms_tesztelés.xlsx` | Tesztelési séma a Packet Tracer prototípushoz |
 
 ## Használat
-1. Nyisd meg a Packet Tracer fájlt (`randoms_kesz.pkt`) a Cisco Packet Tracer programmal.
+1. Nyisd meg a Packet Tracer fájlt (`randoms_finished.pkt`) a Cisco Packet Tracer programmal.
 2. Tanulmányozd a hálózati konfigurációkat és kapcsolódásokat.
 3. A dokumentáció (`randoms_dokumentáció.docx`) részletes útmutatást nyújt a hálózat működéséről.
-4. A prezentáció (`randoms_prezentáció.ppt`) a projekt bemutatásához használható.
+4. A prezentáció (`randoms_prezentáció_hu.pptx`) a projekt bemutatásához használható.
 
 ## Megjegyzés
 A projekt célja, hogy bemutassa a hálózati eszközök konfigurációját és a kapcsolódási logikát. 
